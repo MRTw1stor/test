@@ -1,0 +1,26 @@
+.create {
+    width: 900px;
+
+}
+
+div.square {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: solid 1px ;
+    cursor: pointer;
+
+}
+
+div.offhiden {
+    visibility: hidden;
+}
+div.green {
+  background-color: green;
+}
+
+/* .square:hover {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+} */
